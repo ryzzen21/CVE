@@ -46,9 +46,11 @@
                     echo '">NON</button></form></td></tr>';
                     }
                 ?>
+		<br>
+		<br>
+		<a href="add_user.php">Ajouter un utilisateur</a>
             </table>
 		<br>
-		<a href="add_user.php" style="float:left;">Ajouter un utilisateur</a>
         <br>
     </div>
 <body>

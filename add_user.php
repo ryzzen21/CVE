@@ -61,7 +61,6 @@ try {
         <button class="btn" type="submit">S'Enregistrer</button>
         <br>
     <div>
-        <a href='accueil.php'>Annuler</a>
     </div>
         <div style="text-align: center;">
             <?php
@@ -69,6 +68,7 @@ try {
                     echo $message;
                 }
             ?>
+	<a href='accueil.php'>Annuler</a>
         <div>
     </form>
 </div>
